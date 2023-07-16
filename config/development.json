@@ -1,0 +1,7 @@
+{
+    "name": "My Vidly Express App - development config",
+    "mail": {
+        "host" : "development-mail-server",
+        "password" : "devmail123"
+    }
+}

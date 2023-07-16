@@ -1,0 +1,6 @@
+{
+    "name": "My Vidly Express App - production config",
+    "mail": {
+        "host" : "production-mail-server"
+    }
+}

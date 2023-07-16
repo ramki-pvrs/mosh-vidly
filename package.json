@@ -1,0 +1,22 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "Movie Rental App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramki",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.9",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "fawn": "^2.1.5",
+    "helmet": "^6.0.1",
+    "joi": "^17.9.1",
+    "joi-objectid": "^4.0.2",
+    "mongoose": "^7.0.3",
+    "morgan": "^1.10.0"
+  }
+}
